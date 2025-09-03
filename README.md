@@ -1,0 +1,1 @@
+See chat for instructions. Paste your OpenAI API key in `BoothState.kt` (Secrets).

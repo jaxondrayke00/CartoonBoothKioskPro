@@ -1,0 +1,2 @@
+rootProject.name='CartoonBoothKioskPro_OpenAI'
+include ':app'
